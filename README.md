@@ -39,6 +39,11 @@ npm start
 ## Project Setup
 Included in this repository is the code we will write during the workshop in case you fall behind or want to reference the project files later on.
 
+# Fonts Imported
+```
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,500&display=swap');
+```
+
 ## Resources Available 
 <img src="https://github.com/ethanwongca/McHacksReactWorkshop/assets/87055387/3aa025c8-55fd-416d-a84f-40037069a729" width="35">
 Documentation for JavaScript, React, HTML, and CSS: https://developer.mozilla.org/en-US/
