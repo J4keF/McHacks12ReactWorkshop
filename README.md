@@ -3,6 +3,8 @@
 The slides for the workshops are accessible through this link: <br/>
 https://docs.google.com/presentation/d/1k6j8V6mCiauWRhYFgynjDa_vyWBY72ruva6FOAzMkeA/edit?usp=sharing <br/>
 
+Let's get into it!
+
 > [!IMPORTANT]
 > This workshop is aimed towards beginners in React.js, however all are welcomed! <br/>
 > If you have trouble following the live programming you can refer to the final result in the documentation.
