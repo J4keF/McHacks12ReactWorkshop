@@ -39,7 +39,7 @@ npm start
 ## Project Setup
 Included in this repository is the code we will write during the workshop in case you fall behind or want to reference the project files later on.
 
-# Fonts Imported
+### Fonts Imported
 ```
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,500&display=swap');
 ```
